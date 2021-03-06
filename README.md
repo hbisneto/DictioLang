@@ -1,0 +1,2 @@
+# DictioLang
+Dicionário de tradução.
